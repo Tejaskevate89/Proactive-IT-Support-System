@@ -58,4 +58,4 @@ The **Proactive IT Support System** is designed to detect and resolve IT issues 
 
 ---
 🔗 **Connect with Me**  
-[GitHub](https://github.com/Tejaskevate89) | [LinkedIn](www.linkedin.com/in/tejas-kevate-806b9622b)
+[GitHub](https://github.com/Tejaskevate89) | [LinkedIn](https://www.linkedin.com/in/tejas-kevate-806b9622b/)
